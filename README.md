@@ -11,7 +11,7 @@
 
 ### - Actuellement en formation dans une super école O'clock afin de devenir développeur web !
 
-<img alt="GIF" align="right" src="https://https://github.com/cyprienvallee/cyprienvallee/blob/main/Apprentissage.gif">
+<img alt="GIF" align="right" src="https://github.com/cyprienvallee/cyprienvallee/blob/main/Apprentissage.gif">
 
 <!--
 **cyprienvallee/cyprienvallee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
