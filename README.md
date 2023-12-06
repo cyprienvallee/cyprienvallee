@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Cover](https://github.com/cyprienvallee/cyprienvallee/blob/main/Bonjour.gif)
+<img alt="bonjour Gif" align="center" src="https://github.com/cyprienvallee/cyprienvallee/blob/main/Bonjour.gif">
 
 </br>
 </br>
@@ -28,8 +28,13 @@
 ## Me contacter
 
 Si vous souhaitez me contacter -->
+</br>
 <a href="mailto:cypvallee@hotmail.fr">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png">
+</a>
+<a href="https://www.linkedin.com/in/cyprien-vallée-b5983b17b/">
+ <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</a>
 
 <!--
 **cyprienvallee/cyprienvallee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
