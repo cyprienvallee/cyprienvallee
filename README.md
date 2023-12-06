@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Cover](https://github.com/NicolasBrondin/NicolasBrondin/blob/master/Photo%20profil.jpg)
+
 <!--
 **cyprienvallee/cyprienvallee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
