@@ -13,6 +13,18 @@
 
 <img alt="GIF" align="right" src="https://github.com/cyprienvallee/cyprienvallee/blob/main/Apprentissage.gif">
 
+### Apprentissage en cours 👨‍💻 🛠 :
+- HTML5
+- CSS
+- PHP
+- Javasacript
+
+### Hobbies :
+- Gaming (multis et solo)
+- Cinématophile
+- Grand fan de musique de tous genres
+- Grand nageur (pour garder la forme) 
+
 <!--
 **cyprienvallee/cyprienvallee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
