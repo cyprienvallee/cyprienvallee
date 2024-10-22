@@ -9,15 +9,23 @@
 
 ## A propos de moi 💬 :
 
-###  Actuellement en formation dans une super école O'clock afin de devenir développeur web !
+###  Actuellement en formation Pour un bachelor en développement Web IA à l'École EPSI Lille !
 
 <img alt="GIF" align="right" src="https://github.com/cyprienvallee/cyprienvallee/blob/main/Apprentissage.gif">
 
 ### Apprentissage en cours 👨‍💻 🛠 :
+- Python
+- Data mining
+- Intelligence artificielle
+
+### Technologies acquises :
 - HTML5
 - CSS
 - PHP
-- Javasacript
+- Javascript
+- Laravel
+- Symfony
+- BDD (MySql, MariaDB)
 
 ### Hobbies :
 - Gaming (multis et solo)
